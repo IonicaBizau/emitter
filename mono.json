@@ -3,6 +3,7 @@
     "owner": "IonicaBizau",
     "name": "emitter",
     "dependencies": [
+        "/main.js"
     ],
     "operations": [
         { "file": "operations.js", "function": "emit" }
