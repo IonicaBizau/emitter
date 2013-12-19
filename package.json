@@ -1,0 +1,30 @@
+{
+  "name": "emitter",
+  "version": "0.1.0",
+  "description": "A Mono module that will emit an event on the server side that contains the link object. This event will be listened by a custom script.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IonicaBizau/emitter.git"
+  },
+  "mono": {
+    "source": "github",
+    "owner": "IonicaBizau",
+    "name": "emitter",
+    "dependencies": [
+        "/main.js"
+    ],
+    "operations": [
+        { "file": "operations.js", "function": "emit" }
+    ]
+  },
+  "keywords": [
+    "emitter",
+    "events"
+  ],
+  "author": "Ionică Bizău",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emitter/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emitter"
+}
