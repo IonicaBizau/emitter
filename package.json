@@ -8,9 +8,6 @@
     "url": "git://github.com/IonicaBizau/emitter.git"
   },
   "mono": {
-    "source": "github",
-    "owner": "IonicaBizau",
-    "name": "emitter",
     "dependencies": [
         "/main.js"
     ],
