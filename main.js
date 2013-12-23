@@ -1,2 +1,7 @@
-// dummy file that will never be loaded on the client side... :-)
-// https://github.com/jillix/mono/issues/74
+var Bind = require("github/jillix/bind");
+var Events = require("github/jillix/events");
+
+module.exports = function init (config) {
+    // TODO
+    debugger;
+};

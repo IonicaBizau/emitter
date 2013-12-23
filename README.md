@@ -34,5 +34,8 @@ M.on("my event", function (link) {
 
 ## Changelog
 
+### dev
+ - Added the client script
+
 ### v0.1.0
  - Initial release.
