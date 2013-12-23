@@ -36,6 +36,8 @@ M.on("my event", function (link) {
 
 ### dev
  - Added the client script
+ - Added `Events` and `Bind` dependencies
+ - Added `config.eventWhenReady` options
 
 ### v0.1.0
  - Initial release.
