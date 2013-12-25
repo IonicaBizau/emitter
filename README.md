@@ -36,6 +36,9 @@ M.on("my event", function (link) {
 
 ### dev
 
+### v0.2.1
+ - Updated to Events v0.1.8
+
 ### v0.2.0
  - Added the client script
  - Added `Events` and `Bind` dependencies
