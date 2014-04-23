@@ -36,6 +36,9 @@ M.on("my event", function (link) {
 
 ### dev
 
+### v0.2.2
+ - Updated to Events and Bind
+
 ### v0.2.1
  - Updated to Events v0.1.8
 

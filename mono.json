@@ -1,13 +1,13 @@
 {
-    "source": "github",
-    "owner": "IonicaBizau",
-    "name": "emitter",
-    "dependencies": [
-        "/main.js",
-        "github/jillix/bind/v0.2.1",
-        "github/jillix/events/v0.1.8"
-    ],
-    "operations": [
+    "source": "github"
+  , "owner": "IonicaBizau"
+  , "name": "emitter"
+  , "dependencies": [
+        "/main.js"
+      , "github/jillix/bind/v0.2.2"
+      , "github/jillix/events/v0.1.10"
+    ]
+  , "operations": [
         { "file": "operations.js", "function": "emit" }
     ]
 }
