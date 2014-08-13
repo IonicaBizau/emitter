@@ -35,17 +35,19 @@ M.on("my event", function (link) {
 ## Changelog
 
 ### dev
+ - add new features here
 
-<<<<<<< HEAD
+### v0.3.1
+ - Updated to Bind `v0.3.1`
+
+### v0.3.0
+ - Updated deps
+
 ### v0.2.3
  - Updated Events
 
 ### v0.2.2
  - Updated Events and Bind
-=======
-### v0.3.0
- - Updated deps
->>>>>>> HEAD@{1}
 
 ### v0.2.1
  - Updated to Events v0.1.8
