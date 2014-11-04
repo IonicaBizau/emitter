@@ -9,7 +9,7 @@ A Mono module that will emit an event on the server side that contains the `link
 
 ```JS
 "emitter": {
-    "module": "github/IonicaBizau/emitter/dev",
+    "module": "github/jillix/emitter/dev",
     "config": {},
     "operations": {
         "emit"      : {
