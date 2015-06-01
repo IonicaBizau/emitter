@@ -34,8 +34,9 @@ M.on("my event", function (link) {
 
 ## Changelog
 
-### dev
- - add new features here
+### v0.4.0
+ - transferred the module to the new jxMono organization
+ - updated Bind to `v0.4.0`, Events to `v0.4.0`
 
 ### v0.3.1
  - Updated to Bind `v0.3.1`
